@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1728050285 source:c:\users\amalj\oop\cmdr\oop\project1\addtwonumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1728050232 source:c:\users\amalj\oop\cmdr\oop\project1\addtwonumbers\addtwonumbers.c
+	<stdio.h>
+
